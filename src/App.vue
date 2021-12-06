@@ -1,8 +1,8 @@
 <template>
   <div id="app">
+    <h1> my cool PWA App </h1>
     <img alt="Vue logo" src="./assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
-    <button v-if="updateAvailable" >click to update app</button>
+    <button v-if="updateAvailable">click to update app</button>
   </div>
 </template>
 
