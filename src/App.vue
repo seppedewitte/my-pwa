@@ -11,7 +11,7 @@
 export default {
   name: "App",
   components: {
-    HelloWorld,
+    
   },
   created() {
     document.addEventListener("swupdatefound", this.updateTheApp, {
