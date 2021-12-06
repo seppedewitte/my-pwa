@@ -3,6 +3,7 @@
     <h1>my cool PWA App</h1>
     <img alt="Vue logo" src="./assets/logo.png" />
     <button v-if="updateAvailable">click to update app</button>
+    <p> Created by Seppe De Witte </p>
   </div>
 </template>
 
